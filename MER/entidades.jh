@@ -1,0 +1,3 @@
+entity TipoDocumento {
+	nombre String required
+}

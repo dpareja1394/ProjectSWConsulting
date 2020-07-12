@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.com.swc.uaa",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "co.com.swc.uaa",
+    "packageFolder": "co/com/swc/uaa",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWNkOTg5OGZhNDE5YjQxOGZjMGRlYWVmYzBhZmUxMzBlNWZlMGE3MDFmNWQ1OTE0Yzk0NTYzZTYxMDliYmE0MzdkMzgyMmI2OTVkYTNhNTNkZGE5ZGY5ZTViZjRjMTAxODc3MDhmZGE0YjQwYjljNTljMWM0ZDdhZDA1ZmE1MGQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1594530601268,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": [],
+    "skipClient": true
+  }
+}

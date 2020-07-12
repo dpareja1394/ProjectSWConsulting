@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "co.com.swc.bkswconsulting",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "microservice",
+    "baseName": "bkswconsulting",
+    "packageName": "co.com.swc.bkswconsulting",
+    "packageFolder": "co/com/swc/bkswconsulting",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "M2JiNjZjYzVmZGYzYTNjNmFkZjBiN2VkMGQ5OGJjMmExMDcwMzZmY2M4OTAxMzJmNWYxNGY3NGQxZDFiMWQwY2E4ZjdhNjU1OTNkMzhmMTU1YjYxOTNmMmRkNzE5OTNkODM4ZDI4Y2I1OWRiMDhlMzM3YTUzYzljZTE0NTg1YjY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1594531314387,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "es",
+    "languages": ["es", "en"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
