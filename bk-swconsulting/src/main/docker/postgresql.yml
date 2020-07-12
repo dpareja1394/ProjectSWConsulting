@@ -1,0 +1,11 @@
+version: '2'
+services:
+  bkswconsulting-postgresql:
+    image: postgres:12.1
+    # volumes:
+    #     - ~/volumes/jhipster/bkswconsulting/postgresql/:/var/lib/postgresql/data/
+    environment:
+      - POSTGRES_USER=bkswconsulting
+      - POSTGRES_PASSWORD=
+    ports:
+      - 5432:5432
